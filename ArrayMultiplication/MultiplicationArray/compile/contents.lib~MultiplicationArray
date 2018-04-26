@@ -1,0 +1,12 @@
+76
+~E 1 "./src/MultiplicationArr.vhd" 28 multiarr_ent
+~A 1 "./src/MultiplicationArr.vhd" 40 multiarr_arch
+~E 1 "./src/array.vhd" 28 arr_ent
+~A 1 "./src/array.vhd" 42 arr_arch
+~E 1 "./src/adderonebit.vhd" 28 adderone_ent
+~A 1 "./src/adderonebit.vhd" 40 addertwo_ent
+~E 1 "./src/Cell.vhd" 28 cell_ent
+~A 1 "./src/Cell.vhd" 43 cell_arch
+~E 1 "./src/TestBench/multiarr_ent_TB.vhd" 6 multiarr_ent_tb
+~A 1 "./src/TestBench/multiarr_ent_TB.vhd" 9 tb_architecture
+~C 1 "./src/TestBench/multiarr_ent_TB.vhd" 53 testbench_for_multiarr_ent

@@ -1,0 +1,5 @@
+i<>.\src\Cell.vhd
+i<>.\src\adderonebit.vhd
+i<>.\src\array.vhd
+i<>.\src\MultiplicationArr.vhd
+i<>.\src\TestBench\multiarr_ent_TB.vhd

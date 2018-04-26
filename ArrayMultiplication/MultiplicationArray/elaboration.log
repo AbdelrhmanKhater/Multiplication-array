@@ -1,0 +1,20 @@
+elbread.dll ver. 1.0.5.375 Mon Apr 23 12:47:45 2018
+
+
+--------------------------------------------------------
+Entity           | Architecture    | Library          
+--------------------------------------------------------
+multiarr_ent_tb  | tb_architecture | multiplicationarray
+multiarr_ent     | multiarr_arch   | multiplicationarray
+arr_ent          | arr_arch        | multiplicationarray
+cell_ent         | cell_arch       | multiplicationarray
+adderone_ent     | addertwo_ent    | multiplicationarray
+--------------------------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+textio          | std
+std_logic_1164  | ieee
+-------------------------

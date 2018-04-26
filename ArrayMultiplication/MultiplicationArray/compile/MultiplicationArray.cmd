@@ -1,0 +1,1 @@
+-w -s "F:\VHDL\ArrayMultiplication\library.cfg"  -j "F:\VHDL\ArrayMultiplication\MultiplicationArray\projlib.cfg"  -d "F:\VHDL\ArrayMultiplication\MultiplicationArray\compile"   -work MultiplicationArray  -dbg -e 100 -2002 "F:\\VHDL\\ArrayMultiplication\\MultiplicationArray\\src\\TestBench\\multiarr_ent_TB.vhd" 
